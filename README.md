@@ -1,2 +1,1 @@
-# WEKA
-Materiały do szkolenia: WEKA
+# WEKA - zadania
